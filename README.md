@@ -2,7 +2,7 @@ Privacy Policy
 ---------------------------------------------------------------------------------------------------------------------------------
 
 ### Introduction
-At Codes Soft, we respect your privacy and are committed to protecting the personal information you share with us. This Privacy Policy explains how we collect, use, and disclose your information when you use any of our mobile applications ("Services"). By using our apps, you agree to the collection and use of information as described in this policy.
+At Codes Soft, we respect your privacy and are committed to protecting the personal information you share with us. This Privacy Policy explains how we collect, use, and disclose your information when you use any of our mobile applications ("Services"). By using our apps, you agree to the collection and use of information as described in this policy. 
 
 Unless otherwise defined, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.
 
